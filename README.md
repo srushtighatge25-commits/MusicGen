@@ -2,7 +2,7 @@
 
 Fine-tune Meta's open-source **MusicGen** (a Transformer "LLM for audio") with **LoRA** on a small genre-labelled dataset, then generate new instrumental clips from plain-text prompts.
 
-![MusicGen Studio](assets/musicgen-studio.png)
+![MusicGen Studio](musicgen-studio.png)
 
 *MusicGen Studio: type a prompt, pick a duration, generate, play and download the WAV (model: `facebook/musicgen-small`).*
 
